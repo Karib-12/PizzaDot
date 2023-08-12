@@ -1,0 +1,13 @@
+D:\C#\Lab\PizzaDot\bin\Debug\PizzaDot.exe.config
+D:\C#\Lab\PizzaDot\bin\Debug\PizzaDot.exe
+D:\C#\Lab\PizzaDot\bin\Debug\PizzaDot.pdb
+D:\C#\Lab\PizzaDot\obj\Debug\PizzaDot.csproj.AssemblyReference.cache
+D:\C#\Lab\PizzaDot\obj\Debug\PizzaDot.csproj.SuggestedBindingRedirects.cache
+D:\C#\Lab\PizzaDot\obj\Debug\PizzaDot.Form1.resources
+D:\C#\Lab\PizzaDot\obj\Debug\PizzaDot.Properties.Resources.resources
+D:\C#\Lab\PizzaDot\obj\Debug\PizzaDot.csproj.GenerateResource.cache
+D:\C#\Lab\PizzaDot\obj\Debug\PizzaDot.csproj.CoreCompileInputs.cache
+D:\C#\Lab\PizzaDot\obj\Debug\PizzaDot.exe
+D:\C#\Lab\PizzaDot\obj\Debug\PizzaDot.pdb
+D:\C#\Lab\PizzaDot\obj\Debug\PizzaDot.Billing.resources
+D:\C#\Lab\PizzaDot\obj\Debug\PizzaDot.Settings.resources
